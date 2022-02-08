@@ -2,7 +2,7 @@
 
 - clone the repository
 
-- git clone
+- git clone ( https://github.com/VikasMeshram2708/Todo-App-using-ReactJs.git )
 
 - NOTE node should be installed in your System.
 
